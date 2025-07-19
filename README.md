@@ -19,6 +19,7 @@ The analysis aims to:
 <a href="https://github.com/Mohammad-Bilal554/Bike-Stote-Data-Analysis/blob/main/Dashboard.png"> View Dashboard </a>
 
 ## Process
+
 <ul>
   
 <li>
@@ -53,3 +54,53 @@ Calculated total revenue and summarized top performers  </li>
 
 ## Dashboard
 <img src="https://raw.githubusercontent.com/Mohammad-Bilal554/Bike-Stote-Data-Analysis/refs/heads/main/Dashboard.png"></img>
+
+## Key Insights
+
+<UL>
+
+<li> 
+  
+  #### Total Revenue (2016–2018): $8.57 million </li>
+
+<li>  
+  
+  #### Top Revenue States:
+
+New York – $5.82M
+
+California – $1.79M
+
+Texas – $962K  </li>
+
+<li> 
+  
+  #### Best-Selling Products (by units):
+
+Electra Cruiser 1 (24-Inch) – 296 units
+
+Electra Townie Original 7D EQ – 290 units 
+
+Electra Girl’s Hawaii 1 – 269 units  </li>
+
+<li> 
+  
+  #### Top Brands by Revenue:
+
+Trek – $5.12M
+
+Electra – $1.34M
+
+Surly – $1.06M  </li>
+
+<li> 
+  
+  #### Revenue by Category:
+
+Mountain Bikes – $3.03M
+
+Road Bikes – $1.85M
+
+Electric Bikes – $1.02M  </li>
+
+</UL>
