@@ -23,30 +23,33 @@ The analysis aims to:
   
 <li>
   
-### Data Loading
+#### Data Loading
 
 Read the Excel file using pandas.ExcelFile
 
 Extract data from the Query1 sheet. </li>
 <li>
 
-### Data Exploration
+#### Data Exploration
 
 Inspected columns, data types, and null values
 
 Identified date range and unique product details   </li>
 <li>
   
-### Data Aggregation & Grouping
+#### Data Aggregation & Grouping
 
 Grouped revenue by state, brand_name, category_name
 
 Counted units sold by product_name   </li>
 <li>
   
-### Insight Extraction
+#### Insight Extraction
 
 Sorted and visualized top contributors to revenue and sales
 
 Calculated total revenue and summarized top performers  </li>
 </ul>
+
+## Dashboard
+<img src="https://raw.githubusercontent.com/Mohammad-Bilal554/Bike-Stote-Data-Analysis/refs/heads/main/Dashboard.png"></img>
