@@ -104,3 +104,6 @@ Road Bikes – $1.85M
 Electric Bikes – $1.02M  </li>
 
 </UL>
+
+## Conclusion
+The analysis reveals that New York dominates in revenue contribution, followed by California and Texas. Trek and Electra are leading brands, and mountain bikes are the top-performing category. This insight can help the fictional company allocate inventory, plan promotions, and expand in high-revenue regions.
