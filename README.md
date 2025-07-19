@@ -1,7 +1,7 @@
 # Bike-Stote-Data-Analysis (Dashboard Using Tableau)
 This project analyzes the sales performance of a fictional bike retailer using data from BikeStores.xlsx.
 ## Dataset Used
-<a href=" https://github.com/Mohammad-Bilal554/Bike-Stote-Data-Analysis/blob/main/BikeStores.xlsx"> Dataset </a>
+<a href=" https://github.com/Mohammad-Bilal554/Bike-Stote-Data-Analysis/blob/main/BikeStores.xlsx">Dataset</a>
 ## Analysis Goals
 The analysis aims to:
 <ul>
